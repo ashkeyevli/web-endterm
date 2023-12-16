@@ -1,0 +1,27 @@
+INFO -- 2021-05-14 14:10:07,926: Event object was created, ID:Netews
+INFO -- 2021-05-14 14:10:28,966: Event object was created, ID:Netews
+INFO -- 2021-05-14 14:10:48,465: Event object was created, ID:Netews
+INFO -- 2021-05-14 14:10:57,739: Event object was created, ID:27
+INFO -- 2021-05-14 14:11:25,399: Event object was created, ID:28
+INFO -- 2021-05-14 14:11:34,474: Event object was created, ID:29
+WARNING -- 2021-05-14 14:11:43,232: Event object was not created by manager
+ERROR -- 2021-05-14 14:11:43,233: Server error
+WARNING -- 2021-05-14 16:37:27,842: Review object was not created
+ERROR -- 2021-05-14 16:37:27,843: Server error
+INFO -- 2021-05-14 22:42:40,312: Cart, ID:Roses Pink Floid was created
+WARNING -- 2021-05-14 22:48:56,456: Order object was not created
+ERROR -- 2021-05-14 22:48:56,456: Server error
+WARNING -- 2021-05-14 22:49:49,288: Order object was not created
+ERROR -- 2021-05-14 22:49:49,289: Server error
+WARNING -- 2021-05-14 22:54:34,562: Order object was not created
+ERROR -- 2021-05-14 22:54:34,564: Server error
+WARNING -- 2021-05-14 22:57:58,183: Order object was not created
+ERROR -- 2021-05-14 22:57:58,184: Server error
+INFO -- 2021-05-14 23:03:41,684: Order object created, ID: Order object (119)
+ERROR -- 2021-05-14 23:05:39,211: Order object was not created
+INFO -- 2021-05-14 23:06:00,726: Cart, ID:Updated flower3 was created
+INFO -- 2021-05-14 23:06:04,638: Cart, ID:Roses Pink Floid was created
+INFO -- 2021-05-14 23:06:17,941: Order object created, ID: Order object (121)
+INFO -- 2021-05-14 23:19:13,604: Event object was created, ID:34
+INFO -- 2021-05-15 07:17:56,725: Cart, ID:Roses Pink Floid was created
+INFO -- 2021-05-15 07:18:11,596: Order object created, ID: Order object (122)
